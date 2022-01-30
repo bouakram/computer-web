@@ -1,0 +1,46 @@
+cote admin:            (lmodify w suiprime ak dir tableux flhead ta3o linfo brk wana n3mer
+					lmohtawa wndir fih supprime wl modify)
+
+formule login admin :
+	Name    	type="text"
+	password	type="text"
+
+formule ajoute categourie:
+	Nom 		type="text"
+	description	type="text"  
+	sold 		type="number"    (adi lkn rah dir ta yhab ydir sold dirh
+						si non mklh)
+
+formul ajoute  produit :
+	Nom		type="text"
+	color		type="text"    (adi cheftha fl site tal template hab madirch madirch)
+	prix		type="number" 
+	Description 	type="text"	
+	Mark 		type="text"	
+	image1		typeimage
+	image2		typeimage
+
+formule ajoute user lblack list :
+adi dir tableux fl head ta3o kayn adom (lbody ta tableux n3mro ana blphp):
+Nom   email  telephone   ajoute	
+
+
+	COTE user :
+sign in :
+	Nom 		type="text"
+	prenome		type="text"
+	email		type="email"
+	Password	type="password"	
+	Telephone	type="number"
+	
+log in :
+	Email    	type="email"
+	password	type="password"
+
+
+
+
+
+
+	
+
